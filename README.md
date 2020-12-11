@@ -1,4 +1,4 @@
-# Sorting-Algorithms
+Sorting-Algorithms
 
 # sorts.exe program description 
 Compares the computational time of different sorting algorithms to sort a random array of size n.
