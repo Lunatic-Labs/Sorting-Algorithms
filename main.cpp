@@ -16,7 +16,7 @@ int main() {
     //fout << "n=,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608\n";
     //cout << "n=,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608\n";
     
-    int array_size = 5;
+    int array_size = 128;
     float time;
     bool tooLong = false;
     fout << "Insertion";
@@ -79,7 +79,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     //fout << "Selection";
     cout << "Selection";
@@ -141,7 +141,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Bubble";
     cout << "Bubble";
@@ -202,7 +202,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Merge";
     cout << "Merge";
@@ -263,7 +263,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Quick";
     cout << "Quick";
@@ -324,7 +324,7 @@ int main() {
     fout << endl;
     cout << endl;
 
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Heap";
     cout << "Heap";
@@ -385,7 +385,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Radix";
     cout << "Radix";
@@ -453,7 +453,7 @@ int main() {
     //fout << "n=,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608\n";
    // cout << "n=,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608\n";
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Insertion";
     cout << "Insertion";
@@ -515,7 +515,7 @@ int main() {
     fout << endl;
     cout << endl;
      
-        array_size = 5;
+        array_size = 128;
         tooLong = false;
         fout << "Selection";
         cout << "Selection";
@@ -577,7 +577,7 @@ int main() {
     fout << endl;
     cout << endl;
      
-     array_size = 5;
+     array_size = 128;
      tooLong = false;
      fout << "Bubble";
      cout << "Bubble";
@@ -638,7 +638,7 @@ int main() {
     fout << endl;
     cout << endl;
      
-     array_size = 5;
+     array_size = 128;
      tooLong = false;
      fout << "Merge";
      cout << "Merge";
@@ -698,7 +698,7 @@ int main() {
      fout << endl;
      cout << endl;
      
-     array_size = 5;
+     array_size = 128;
      tooLong = false;
      fout << "Quick";
      cout << "Quick";
@@ -759,7 +759,7 @@ int main() {
      fout << endl;
      cout << endl;
      
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Heap";
     cout << "Heap";
@@ -820,7 +820,7 @@ int main() {
     fout << endl;
     cout << endl;
     
-    array_size = 5;
+    array_size = 128;
     tooLong = false;
     fout << "Radix";
     cout << "Radix";
