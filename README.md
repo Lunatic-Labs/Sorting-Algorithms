@@ -23,6 +23,8 @@ The results are then output to a .CSV file.
     Other versions may also work.
 3. Select build in VS this will create a sorts.exe file under the debug directory 
 
-
+#Credits
+created by Kate Owens
+contact information: owenskl@mail.lipscomb.edu
 
 
